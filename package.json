@@ -1,0 +1,25 @@
+{
+  "name": "phaser-pacman-1",
+  "version": "1.0.0",
+  "description": "Game by Nonintendo ",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deku95/phaser-pacman-1.git"
+  },
+  "keywords": [
+    "pacman"
+  ],
+  "author": "Nonintendo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deku95/phaser-pacman-1/issues"
+  },
+  "homepage": "https://github.com/Deku95/phaser-pacman-1#readme",
+  "dependencies": {
+    "phaser": "^3.85.2"
+  }
+}
